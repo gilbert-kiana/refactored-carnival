@@ -2,11 +2,15 @@ body{
   text-align:center;
 }
 div#container{
-  padding:90px;
+  width:300px;
+  height: 200px;
   border:solid green;
+  position:relative;
 }
-div#object{
+div#box{
   width:10px;
   height:10px;
   background-color:black;
+  position:absolute;
+
 }
