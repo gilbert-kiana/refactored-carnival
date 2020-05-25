@@ -1,0 +1,12 @@
+body{
+  text-align:center;
+}
+div#container{
+  padding:90px;
+  border:solid green;
+}
+div#object{
+  width:10px;
+  height:10px;
+  background-color:black;
+}
