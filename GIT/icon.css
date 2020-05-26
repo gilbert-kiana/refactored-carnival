@@ -1,0 +1,36 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width:95%;
+  margin: 0 auto;
+}
+
+.testimonial{
+  position: relative;
+  background-color: #FAFAFA;
+  color: #424242;
+  border-radius: 4px;
+  padding: 2rem 2rem 3rem 2rem;
+  margin: 0 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12),
+              0 1px 2px rgba(0,0,0,0.24);
+}
+
+.testimonial-avatar{
+  border-radius: 50%;
+  max-width: 4rem;
+  position: absolute;
+  top: -1.5rem;
+  left:0;
+  right: 0;
+  margin: 0 auto;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16),
+              0 3pX 6px rgba(0,0,0,0.23);
+}
+
+.testimonial-user{
+  text-align: center;
+  margin: 1.5rem 0 1rem 0;
+}
