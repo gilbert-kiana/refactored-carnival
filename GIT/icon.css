@@ -34,3 +34,23 @@
   text-align: center;
   margin: 1.5rem 0 1rem 0;
 }
+
+.username{
+  font-size: 1.15rem;
+  margin-top: .5rem;
+}
+
+.user-company{
+  color: #BDBDBD;
+  margin-top: .4rem;
+  font-size: .85rem;
+  letter-spacing: .03rem;
+}
+
+.testimonial-text{
+  text-align: center;
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.85rem;
+  
+}
